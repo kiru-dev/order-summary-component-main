@@ -28,4 +28,4 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 ## Author
 
 - Website - [Kiruthiga K](https://kiruanime2003.gitlab.io)
-- Frontend Mentor - [@kiru-dev](https://www.frontendmentor.io/profile/kiru-dev)
+- Frontend Mentor - [@kiru-dev](https://www.frontendmentor.io/profile/kiruanime2003)

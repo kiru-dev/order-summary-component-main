@@ -16,7 +16,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 ### Links
 
 - Solution URL: https://www.frontendmentor.io/solutions/order-summary-component-44Oth-e7K
-- Live Site URL: https://kiru-dev.github.io/order-summary-component-main/
+- Live Site URL: https://kiruanime2003.github.io/order-summary-component-main/
 
 ### Built with
 

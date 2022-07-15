@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #e0e8ff;
+  background-color: hsl(225deg, 100%, 94%);
 }
 
 #box {
@@ -21,7 +21,7 @@ body {
   height: 680px;
 }
 #box #descrip {
-  color: #7280a7;
+  color: hsl(224deg, 23%, 55%);
   font-family: "Red Hat Display", sans-serif;
   font-weight: 500;
   font-size: 16px;
@@ -44,7 +44,7 @@ body {
 
 h1 {
   font-family: "Red Hat Display", sans-serif;
-  color: #1f2f56;
+  color: hsl(223deg, 47%, 23%);
   font-weight: 900;
   font-size: 23px;
   text-align: center;
@@ -57,7 +57,7 @@ h1 {
   align-items: center;
   margin: 30px;
   padding: 22px 20px 22px 20px;
-  background-color: rgba(224, 232, 255, 0.356);
+  background-color: hsla(225deg, 100%, 94%, 0.356);
   border-radius: 6%;
 }
 #plan div {
@@ -72,7 +72,7 @@ h1 {
   font-weight: 700;
 }
 #plan div p {
-  color: #7280a7;
+  color: hsl(224deg, 23%, 55%);
   font-family: "Red Hat Display", sans-serif;
   font-weight: 500;
   font-size: 16px;
@@ -81,7 +81,7 @@ h1 {
   font-family: "Red Hat Display", sans-serif;
   font-size: 16px;
   font-weight: 900;
-  color: #3829e0;
+  color: hsl(245deg, 75%, 52%);
   text-decoration: underline;
   margin-left: 100px;
 }
@@ -94,13 +94,14 @@ h1 {
 h3 {
   font-family: "Red Hat Display", sans-serif;
   font-weight: 900;
-  background-color: #3829e0;
+  background-color: hsl(245deg, 75%, 52%);
   font-size: 16px;
   padding: 15px;
-  color: #f5f7ff;
+  color: hsl(225deg, 100%, 98%);
   text-align: center;
-  border-radius: 2%;
+  border-radius: 10px;
   margin: 0 30px 0 30px;
+  box-shadow: 0px 10px 10px 5px #e4e2fb;
 }
 
 h3:hover {
@@ -111,14 +112,14 @@ h3:hover {
 #order {
   font-family: "Red Hat Display", sans-serif;
   font-weight: 900;
-  color: #7280a7;
+  color: hsl(224deg, 23%, 55%);
   text-align: center;
   margin: 40px 0 30px 0;
 }
 
 #order:hover {
   cursor: pointer;
-  color: #1f2f56;
+  color: hsl(223deg, 47%, 23%);
 }
 
 @media screen and (max-width: 446px) {
@@ -126,7 +127,6 @@ h3:hover {
     max-width: 22rem;
     height: 640px;
   }
-
   #plan div h2 {
     font-size: 15px;
   }
